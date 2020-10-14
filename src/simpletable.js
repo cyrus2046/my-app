@@ -21,4 +21,5 @@ class MyTable extends Component {
   }
 }
 
-ReactDOM.render(<MyTable />, document.getElementById('mytable-div'));
+//export default MyTable;
+ReactDOM.render(<MyTable />, document.getElementById('react-div'));
